@@ -1,0 +1,24 @@
+c:\documents and settings\stud\my documents\visual studio 2010\Projects\Talk\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Stud\My Documents\Visual Studio 2010\Projects\Talk\Server\bin\Debug\Server.exe.config
+C:\Documents and Settings\Stud\My Documents\Visual Studio 2010\Projects\Talk\Server\bin\Debug\Server.exe
+C:\Documents and Settings\Stud\My Documents\Visual Studio 2010\Projects\Talk\Server\bin\Debug\Server.pdb
+C:\Documents and Settings\Stud\My Documents\Visual Studio 2010\Projects\Talk\Server\bin\Debug\Common.dll
+C:\Documents and Settings\Stud\My Documents\Visual Studio 2010\Projects\Talk\Server\bin\Debug\Common.pdb
+C:\Documents and Settings\Stud\My Documents\Visual Studio 2010\Projects\Talk\Server\obj\x86\Debug\Server.exe
+C:\Documents and Settings\Stud\My Documents\Visual Studio 2010\Projects\Talk\Server\obj\x86\Debug\Server.pdb
+C:\Documents and Settings\Stud\Desktop\Talk\Server\bin\Debug\Server.exe.config
+C:\Documents and Settings\Stud\Desktop\Talk\Server\bin\Debug\Server.exe
+C:\Documents and Settings\Stud\Desktop\Talk\Server\bin\Debug\Server.pdb
+C:\Documents and Settings\Stud\Desktop\Talk\Server\bin\Debug\Common.dll
+C:\Documents and Settings\Stud\Desktop\Talk\Server\bin\Debug\Common.pdb
+C:\Documents and Settings\Stud\Desktop\Talk\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Stud\Desktop\Talk\Server\obj\x86\Debug\Server.exe
+C:\Documents and Settings\Stud\Desktop\Talk\Server\obj\x86\Debug\Server.pdb
+C:\Users\win-win\Downloads\Talk\Talk\Server\bin\Debug\Server.exe.config
+C:\Users\win-win\Downloads\Talk\Talk\Server\bin\Debug\Server.exe
+C:\Users\win-win\Downloads\Talk\Talk\Server\bin\Debug\Server.pdb
+C:\Users\win-win\Downloads\Talk\Talk\Server\bin\Debug\Common.dll
+C:\Users\win-win\Downloads\Talk\Talk\Server\bin\Debug\Common.pdb
+C:\Users\win-win\Downloads\Talk\Talk\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\win-win\Downloads\Talk\Talk\Server\obj\x86\Debug\Server.exe
+C:\Users\win-win\Downloads\Talk\Talk\Server\obj\x86\Debug\Server.pdb

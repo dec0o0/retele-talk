@@ -1,0 +1,26 @@
+C:\Documents and Settings\Stud\Desktop\Talk\Client\bin\Debug\Client.exe.config
+C:\Documents and Settings\Stud\Desktop\Talk\Client\bin\Debug\Client.exe
+C:\Documents and Settings\Stud\Desktop\Talk\Client\bin\Debug\Client.pdb
+C:\Documents and Settings\Stud\Desktop\Talk\Client\bin\Debug\Common.dll
+C:\Documents and Settings\Stud\Desktop\Talk\Client\bin\Debug\Common.pdb
+C:\Documents and Settings\Stud\Desktop\Talk\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Stud\Desktop\Talk\Client\obj\x86\Debug\Client.MainForm.resources
+C:\Documents and Settings\Stud\Desktop\Talk\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Documents and Settings\Stud\Desktop\Talk\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Stud\Desktop\Talk\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Stud\Desktop\Talk\Client\obj\x86\Debug\Client.exe
+C:\Documents and Settings\Stud\Desktop\Talk\Client\obj\x86\Debug\Client.pdb
+C:\Users\win-win\Downloads\Talk\Talk\Client\bin\Debug\Client.exe.config
+C:\Users\win-win\Downloads\Talk\Talk\Client\bin\Debug\Client.exe
+C:\Users\win-win\Downloads\Talk\Talk\Client\bin\Debug\Client.pdb
+C:\Users\win-win\Downloads\Talk\Talk\Client\bin\Debug\Common.dll
+C:\Users\win-win\Downloads\Talk\Talk\Client\bin\Debug\Common.pdb
+C:\Users\win-win\Downloads\Talk\Talk\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\win-win\Downloads\Talk\Talk\Client\obj\x86\Debug\Client.Conferinta.resources
+C:\Users\win-win\Downloads\Talk\Talk\Client\obj\x86\Debug\Client.MainForm.resources
+C:\Users\win-win\Downloads\Talk\Talk\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\win-win\Downloads\Talk\Talk\Client\obj\x86\Debug\Client.welcome.resources
+C:\Users\win-win\Downloads\Talk\Talk\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\win-win\Downloads\Talk\Talk\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\win-win\Downloads\Talk\Talk\Client\obj\x86\Debug\Client.exe
+C:\Users\win-win\Downloads\Talk\Talk\Client\obj\x86\Debug\Client.pdb
